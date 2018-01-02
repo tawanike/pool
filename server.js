@@ -14,7 +14,7 @@ var myCoin = {
        source code as the pchMessageStart variable.
        For example, litecoin mainnet magic: http://git.io/Bi8YFw
        And for litecoin testnet magic: http://git.io/NXBYJA */
-     "peerMagic": "fbc0b6db" //optional
+     "peerMagic": "fbc0b6db", //optional
      "peerMagicTestnet": "fcc1b7dc" //optional
 };
 
